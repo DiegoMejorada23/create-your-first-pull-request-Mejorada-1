@@ -1,0 +1,8 @@
+Diego V. Mejorada
+2023-04708
+CMSC 100 C3L
+FEBRUARY 06, 2025
+
+Expectations on CMSC 100: C3L
+
+My expectations is to master how to use git and GitHub without cheat sheet, create a fully functional website using Full Stack (Front End and Back End Programming), and also have a grade of 1.00 (hopefully).
